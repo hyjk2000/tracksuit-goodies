@@ -1,0 +1,17 @@
+{
+  "name": "@gotracksuit/cognito-config-updater",
+  "description": "Update Cognito user pool configuration safely.",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-strip-types src/index.ts",
+    "run:development": "dotenvx run -f .env.development -- pnpm start",
+    "run:production": "dotenvx run -f .env.production -- pnpm start"
+  },
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.760.0",
+    "@inquirer/confirm": "^5.1.7",
+    "remeda": "^2.21.2"
+  }
+}

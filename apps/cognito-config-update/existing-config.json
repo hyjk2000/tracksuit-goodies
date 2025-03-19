@@ -1,0 +1,400 @@
+{
+  "AccountRecoverySetting": {
+    "RecoveryMechanisms": [
+      {
+        "Name": "verified_email",
+        "Priority": 1
+      }
+    ]
+  },
+  "AdminCreateUserConfig": {
+    "AllowAdminCreateUserOnly": true,
+    "InviteMessageTemplate": {
+      "EmailMessage": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional //EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:v=\"urn:schemas-microsoft-com:vml\" lang=\"en\"><head><title>Your survey is live - woo! 🏆</title><meta property=\"og:title\" content=\"Your survey is live - woo! 🏆\"><meta name=\"twitter:title\" content=\"Your survey is live - woo! 🏆\"><meta name=\"x-apple-disable-message-reformatting\"><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><!--[if gte mso 9]><xml><o:officedocumentsettings><o:allowpng><o:pixelsperinch>96</o:pixelsperinch></o:officedocumentsettings></xml><style>ul>li{text-indent:-1em}</style><![endif]--><!--[if mso]><style type=\"text/css\">body,td{font-family:Arial,Helvetica,sans-serif}</style><![endif]--><meta name=\"generator\" content=\"HubSpot\"><meta property=\"og:url\" content=\"http://gotracksuit-19622650.hs-sites.com/-temporary-slug-efb76d52-24d7-4e5a-86ad-54357e984a83?hs_preview=QivzbIfh-78293103001\"><meta name=\"robots\" content=\"noindex,follow\"><!--[if !((mso)|(IE))]><!-- --><style type=\"text/css\">.moz-text-html .hse-column-container{max-width:600px!important;width:600px!important}.moz-text-html .hse-column{display:table-cell;vertical-align:top}.moz-text-html .hse-section .hse-size-12{max-width:600px!important;width:600px!important}[owa] .hse-column-container{max-width:600px!important;width:600px!important}[owa] .hse-column{display:table-cell;vertical-align:top}[owa] .hse-section .hse-size-12{max-width:600px!important;width:600px!important}@media only screen and (min-width:640px){.hse-column-container{max-width:600px!important;width:600px!important}.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12{max-width:600px!important;width:600px!important}}@media only screen and (max-width:639px){.hs-stretch-cta .hs-cta-img,.hs_rss_email_entries_table img,img.stretch-on-mobile{height:auto!important;width:100%!important}.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px!important;padding-right:20px!important}}</style><!--<![endif]--><style type=\"text/css\">body[data-outlook-cycle] .hs_rss_email_entries_table img,body[data-outlook-cycle] img.stretch-on-mobile{height:auto!important;width:100%!important}body[data-outlook-cycle] .hs_padded{padding-left:20px!important;padding-right:20px!important}a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!important;font-size:inherit!important;font-family:inherit!important;font-weight:inherit!important;line-height:inherit!important}#outlook a{padding:0}.yshortcuts a{border-bottom:none!important}a{text-decoration:underline}.ExternalClass{width:100%}.ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.ExternalClass td{line-height:100%}p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}@media only screen and (max-width:639px){.hs-stretch-cta .hs-cta-img,.hs_rss_email_entries_table img,img.stretch-on-mobile{height:auto!important;width:100%!important}}@media only screen and (max-width:639px){.hs-stretch-cta .hs-cta-img,.hs_rss_email_entries_table img,img.stretch-on-mobile{height:auto!important;width:100%!important}}</style></head><body bgcolor=\"#EAF0F6\" style=\"margin:0!important;padding:0!important;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word\"><!--[if gte mso 9]><v:background xmlns:v=\"urn:schemas-microsoft-com:vml\" fill=\"t\"><v:fill type=\"tile\" size=\"100%,100%\" color=\"#EAF0F6\"></v:background><![endif]--><div class=\"hse-body-background\" style=\"background-color:#eaf0f6\" bgcolor=\"#eaf0f6\"><table role=\"presentation\" class=\"hse-body-wrapper-table\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;margin:0;padding:0;width:100%!important;min-width:320px!important;height:100%!important\" width=\"100%\" height=\"100%\"><tbody><tr><td class=\"hse-body-wrapper-td\" valign=\"top\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word\"><div id=\"hs_cos_wrapper_main\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_dnd_area\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"dnd_area\"><div id=\"section-1\" class=\"hse-section hse-section-first\" style=\"padding-left:10px;padding-right:10px;padding-top:20px\"><!--[if !((mso)|(IE))]><!-- --><div class=\"hse-column-container\" style=\"min-width:280px;max-width:600px;width:100%;margin-left:auto;margin-right:auto;border-collapse:collapse;border-spacing:0;background-color:#e3e0f2;padding-bottom:10px;padding-top:10px\" bgcolor=\"#E3E0F2\"><!--<![endif]--><!--[if (mso)|(IE)]><div class=\"hse-column-container\" style=\"min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0\"><table align=\"center\" style=\"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;width:600px\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"600\" bgcolor=\"#E3E0F2\"><tr style=\"background-color:#e3e0f2\"><![endif]--><!--[if (mso)|(IE)]><td valign=\"top\" style=\"width:600px;padding-bottom:10px;padding-top:10px\"><![endif]--><!--[if gte mso 9]><table role=\"presentation\" width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;width:600px\"><![endif]--><div id=\"column-1-0\" class=\"hse-column hse-size-12\"><div id=\"hs_cos_wrapper_module_16540400575382\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"><table class=\"hse-image-wrapper\" role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0\"><tbody><tr><td align=\"center\" valign=\"top\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;color:#000;word-break:break-word;text-align:center;padding:0 20px 10px;font-size:0\"><img alt=\"Tracksuit icons\" src=\"https://19622650.fs1.hubspotusercontent-na1.net/hub/19622650/hubfs/MicrosoftTeams-image%20(59).png?width=508&amp;upscale=true&amp;name=MicrosoftTeams-image%20(59).png\" style=\"outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;max-width:100%;font-size:16px\" width=\"254\" align=\"middle\"></td></tr></tbody></table></div></div><!--[if gte mso 9]><![endif]--><!--[if (mso)|(IE)]><![endif]--><!--[if (mso)|(IE)]><![endif]--></div></div><div id=\"section_1654060490366\" class=\"hse-section\" style=\"padding-left:10px;padding-right:10px\"><!--[if !((mso)|(IE))]><!-- --><div class=\"hse-column-container\" style=\"min-width:280px;max-width:600px;width:100%;margin-left:auto;margin-right:auto;border-collapse:collapse;border-spacing:0;background-color:#faf7f0;padding-bottom:30px;padding-top:30px\" bgcolor=\"#faf7f0\"><!--<![endif]--><!--[if (mso)|(IE)]><div class=\"hse-column-container\" style=\"min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0\"><table align=\"center\" style=\"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;width:600px\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"600\" bgcolor=\"#faf7f0\"><tr style=\"background-color:#faf7f0\"><![endif]--><!--[if (mso)|(IE)]><td valign=\"top\" style=\"width:600px;padding-bottom:30px;padding-top:30px\"><![endif]--><!--[if gte mso 9]><table role=\"presentation\" width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;width:600px\"><![endif]--><div id=\"column_1654060490366_0\" class=\"hse-column hse-size-12\"><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0\"><tbody><tr><td class=\"hs_padded\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;padding:10px 40px\"><div id=\"hs_cos_wrapper_module-1-0-1\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"><div id=\"hs_cos_wrapper_module-1-0-1_\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"rich_text\"><p style=\"mso-line-height-rule:exactly;text-align:center;font-size:16px;line-height:175%;font-weight:400\" align=\"center\"><span style=\"font-size:30px;font-family:'Courier New',Courier,monospace;font-weight:700\">Your dashboard is ready&nbsp;</span></p><p style=\"mso-line-height-rule:exactly;text-align:center;font-size:16px;line-height:175%;font-weight:400\" align=\"center\"><span style=\"font-size:30px;font-family:'Courier New',Courier,monospace;font-weight:700\">Check out your data 🕵️</span></p></div></div></td></tr></tbody></table><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0\"><tbody><tr><td class=\"hs_padded\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;padding:20px 40px 10px\"><div id=\"hs_cos_wrapper_module-1-0-0\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"><div id=\"hs_cos_wrapper_module-1-0-0_\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"rich_text\"><p style=\"mso-line-height-rule:exactly;line-height:150%\">Hello there,<br><br>Your Tracksuit dashboard is all set up, so you're ready to go. Your always-on brand tracking dashboard is now giving you and your team a simple approach to tracking brand health.<br><br>Click the button below to set up your password and get access to your brand’s results.</p></div></div></td></tr></tbody></table><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0\"><tbody><tr><td class=\"hs_padded\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;padding:10px 20px\"><div id=\"hs_cos_wrapper_module_16569814011911\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"border-spacing:0!important;mso-table-lspace:0;mso-table-rspace:0;border-collapse:separate!important\"><tbody><tr><!--[if mso]><td align=\"center\" valign=\"middle\" bgcolor=\"#514270\" role=\"presentation\" valign=\"middle\" style=\"border-radius:25px;cursor:auto;background-color:#514270;border:1px solid #514270;box-sizing:border-box;padding:12px 18px\"><![endif]--><!--[if !mso]><!-- --><td align=\"center\" valign=\"middle\" bgcolor=\"#514270\" role=\"presentation\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;border-radius:25px;cursor:auto;background-color:#514270;border:1px solid #514270;box-sizing:border-box\"><!--<![endif]--><a href=\"https://app.gotracksuit.com/v2/activate?username={username}&amp;password={####}\" target=\"_blank\" style=\"color:#00a4bd;mso-line-height-rule:exactly;font-size:16px;font-family:Arial,sans-serif;margin:0;text-transform:none;text-decoration:none;padding:12px 18px;display:block\" data-hs-link-id=\"0\"><strong style=\"color:#fff;font-weight:400;text-decoration:none;font-style:normal\">Setup password</strong></a></td></tr></tbody></table></div></td></tr></tbody></table><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0\"><tbody><tr><td class=\"hs_padded\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;padding:30px 40px 0\"><div id=\"hs_cos_wrapper_module_16540605208395\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"><div id=\"hs_cos_wrapper_module_16540605208395_\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"rich_text\"><p style=\"mso-line-height-rule:exactly;line-height:150%\">In case it’s helpful, here are some ways we’ve seen teams use Tracksuit.</p><p style=\"mso-line-height-rule:exactly;line-height:150%\">&nbsp;</p><p style=\"mso-line-height-rule:exactly;line-height:150%\">Let me know if I can help with anything as you start using Tracksuit, and we’d love to hear any feedback (both the good and the bad) along the way!</p><p style=\"mso-line-height-rule:exactly;line-height:150%\">&nbsp;</p><p style=\"mso-line-height-rule:exactly;line-height:150%\">Best,<br>Mikayla Hopkins&nbsp;</p></div></div></td></tr></tbody></table></div><!--[if gte mso 9]><![endif]--><!--[if (mso)|(IE)]><![endif]--><!--[if (mso)|(IE)]><![endif]--></div></div><div id=\"section_165403969915126\" class=\"hse-section hse-section-last\" style=\"padding-left:10px;padding-right:10px;padding-bottom:20px\"><!--[if !((mso)|(IE))]><!-- --><div class=\"hse-column-container\" style=\"min-width:280px;max-width:600px;width:100%;margin-left:auto;margin-right:auto;border-collapse:collapse;border-spacing:0;background-color:#faf7f0;padding-bottom:10px;padding-top:10px\" bgcolor=\"#faf7f0\"><!--<![endif]--><!--[if (mso)|(IE)]><div class=\"hse-column-container\" style=\"min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0\"><table align=\"center\" style=\"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;width:600px\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" width=\"600\" bgcolor=\"#faf7f0\"><tr style=\"background-color:#faf7f0\"><![endif]--><!--[if (mso)|(IE)]><td valign=\"top\" style=\"width:600px;padding-bottom:10px;padding-top:10px\"><![endif]--><!--[if gte mso 9]><table role=\"presentation\" width=\"600\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;width:600px\"><![endif]--><div id=\"column-0-0\" class=\"hse-column hse-size-12\"><table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0\"><tbody><tr><td class=\"hs_padded\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;padding:10px 20px\"><div id=\"hs_cos_wrapper_module_165403969915125\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"color:inherit;font-size:inherit;line-height:inherit\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"><table role=\"presentation\" class=\"hse-footer hse-secondary\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-spacing:0!important;border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;font-family:Arial,sans-serif;font-size:12px;line-height:135%;color:#23496d;margin-bottom:0;padding:0\"><tbody><tr><td align=\"center\" valign=\"top\" style=\"border-collapse:collapse;mso-line-height-rule:exactly;font-family:Arial,sans-serif;font-size:15px;color:#000;word-break:break-word;text-align:center;margin-bottom:0;line-height:135%;padding:10px 20px\"><p style=\"mso-line-height-rule:exactly;font-family:arial,helvetica,sans-serif;font-size:12px;font-weight:400;text-decoration:none;font-style:normal;color:#23496d;direction:lrt\" dir=\"lrt\">Tracksuit Limited, 2 Vernon Street, Freemans Bay, Auckland, NZ</p><p style=\"mso-line-height-rule:exactly\"><a data-unsubscribe=\"true\" href=\"https://hs-19622650.s.hubspotemail.net/hs/manage-preferences/unsubscribe-all-test?languagePreference=en&amp;d=VmYj8P7QCp7nVKgD3Q3_YlyBW2m3bL73_YlyBN1JxwY5GKd_PV20N5_90Xx6SW7L8n_y6D-yXYF5sYpbbgsWB1&amp;v=3\" style=\"mso-line-height-rule:exactly;font-family:helvetica;font-size:12px;color:#8f80cc;font-weight:400;text-decoration:underline;font-style:normal\" data-hs-link-id=\"0\" target=\"_blank\">Unsubscribe</a><a data-unsubscribe=\"true\" href=\"https://hs-19622650.s.hubspotemail.net/hs/manage-preferences/unsubscribe-test?languagePreference=en&amp;d=VmYj8P7QCp7nVKgD3Q3_YlyBW2m3bL73_YlyBN1JxwY5GKd_PV20N5_90Xx6SW7L8n_y6D-yXYF5sYpbbgsWB1&amp;v=3\" style=\"mso-line-height-rule:exactly;font-family:helvetica;font-size:12px;color:#8f80cc;font-weight:400;text-decoration:underline;font-style:normal\" data-hs-link-id=\"0\" target=\"_blank\">Manage preferences</a></p></td></tr></tbody></table></div></td></tr></tbody></table></div><!--[if gte mso 9]><![endif]--><!--[if (mso)|(IE)]><![endif]--><!--[if (mso)|(IE)]><![endif]--></div></div></div></td></tr></tbody></table></div></body></html>",
+      "EmailSubject": "Welcome to Tracksuit",
+      "SMSMessage": "Your username is {username} and temporary password is {####}. "
+    },
+    "UnusedAccountValidityDays": 30
+  },
+  "Arn": "arn:aws:cognito-idp:ap-southeast-2:649184141184:userpool/ap-southeast-2_0MiqmpQ8S",
+  "AutoVerifiedAttributes": [
+    "email"
+  ],
+  "CreationDate": "2021-06-14T03:22:37.357Z",
+  "DeletionProtection": "ACTIVE",
+  "Domain": "tracksuitf9785b82-f9785b82-dev",
+  "EmailConfiguration": {
+    "EmailSendingAccount": "DEVELOPER",
+    "From": "Tracksuit <hello@gotracksuit.com>",
+    "ReplyToEmailAddress": "Tracksuit<hello@gotracksuit.com>",
+    "SourceArn": "arn:aws:ses:us-west-2:649184141184:identity/hello@gotracksuit.com"
+  },
+  "EstimatedNumberOfUsers": 146,
+  "Id": "ap-southeast-2_0MiqmpQ8S",
+  "LambdaConfig": {
+    "CustomEmailSender": {
+      "LambdaArn": "arn:aws:lambda:ap-southeast-2:649184141184:function:frackend_dev_cognito-email-sender__456b6ca0",
+      "LambdaVersion": "V1_0"
+    },
+    "KMSKeyID": "arn:aws:kms:ap-southeast-2:649184141184:key/490f5307-63db-48fd-818a-d666185269f4",
+    "PostConfirmation": "arn:aws:lambda:ap-southeast-2:649184141184:function:frackend_dev_cognito-email-sender__456b6ca0",
+    "PreSignUp": "arn:aws:lambda:ap-southeast-2:649184141184:function:after-sign-up",
+    "PreTokenGeneration": "arn:aws:lambda:ap-southeast-2:649184141184:function:frackend_dev_cognito-presign-handler__9cc602f5",
+    "PreTokenGenerationConfig": {
+      "LambdaArn": "arn:aws:lambda:ap-southeast-2:649184141184:function:frackend_dev_cognito-presign-handler__9cc602f5",
+      "LambdaVersion": "V1_0"
+    }
+  },
+  "LastModifiedDate": "2025-02-26T02:06:52.317Z",
+  "MfaConfiguration": "OPTIONAL",
+  "Name": "tracksuitf9785b82_userpool_f9785b82-dev",
+  "Policies": {
+    "PasswordPolicy": {
+      "MinimumLength": 8,
+      "RequireLowercase": false,
+      "RequireNumbers": false,
+      "RequireSymbols": false,
+      "RequireUppercase": false,
+      "TemporaryPasswordValidityDays": 30
+    },
+    "SignInPolicy": {
+      "AllowedFirstAuthFactors": [
+        "PASSWORD"
+      ]
+    }
+  },
+  "SchemaAttributes": [
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": false,
+      "Name": "sub",
+      "Required": true,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "name",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "given_name",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "family_name",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "middle_name",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "nickname",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "preferred_username",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "profile",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "picture",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "website",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "email",
+      "Required": true,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "Boolean",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "email_verified",
+      "Required": false
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "gender",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "birthdate",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "10",
+        "MinLength": "10"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "zoneinfo",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "locale",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "phone_number",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "Boolean",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "phone_number_verified",
+      "Required": false
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "address",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "0"
+      }
+    },
+    {
+      "AttributeDataType": "Number",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "updated_at",
+      "NumberAttributeConstraints": {
+        "MinValue": "0"
+      },
+      "Required": false
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:clients",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "500",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:isadmin",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "1",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:tabs",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "30",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:hidetabs",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "500",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:client_admin",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "1",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:is_demo",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "1",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:demo_account_id",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "20",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:feature_flags",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "500",
+        "MinLength": "1"
+      }
+    },
+    {
+      "AttributeDataType": "String",
+      "DeveloperOnlyAttribute": false,
+      "Mutable": true,
+      "Name": "custom:onboard_uuids",
+      "Required": false,
+      "StringAttributeConstraints": {
+        "MaxLength": "2048",
+        "MinLength": "1"
+      }
+    }
+  ],
+  "SmsConfiguration": {
+    "ExternalId": "tracksf9785b82_role_external_id",
+    "SnsCallerArn": "arn:aws:iam::649184141184:role/snsf9785b82153410-dev",
+    "SnsRegion": "ap-southeast-2"
+  },
+  "SmsConfigurationFailure": "SNSSandbox",
+  "UserAttributeUpdateSettings": {
+    "AttributesRequireVerificationBeforeUpdate": []
+  },
+  "UserPoolTags": {},
+  "UserPoolTier": "LITE",
+  "UsernameAttributes": [
+    "email"
+  ],
+  "UsernameConfiguration": {
+    "CaseSensitive": false
+  },
+  "VerificationMessageTemplate": {
+    "DefaultEmailOption": "CONFIRM_WITH_CODE",
+    "EmailMessageByLink": "Please click the link below to verify your email address {##Very##} ",
+    "EmailSubjectByLink": "Your verification link"
+  }
+}
